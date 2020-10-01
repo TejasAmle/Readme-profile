@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img align="right" width="400" height="400" src="http://pngimg.com/download/19408">
+<img align="right" width="400" height="400" src="http://pngimg.com/uploads/github/github_PNG90.png">
 
 
 # Hi, I'm Vasu Gupta 💻

@@ -8,7 +8,7 @@ This repsitory will help everyone make pull request.
 <li>Your readme profile should be in a folder with your name.</li>
 <li>Nothing else should be there in the folder other than your readme profile.</li>
 <li>Try to make your profile interactive by adding some buttons or pictures.</li>
-<li>Fourth item</li>
+<li>(See Tejas's folder for refference)</li>
 </ul>
 
 
